@@ -1,0 +1,6 @@
+{
+  "name": "NaadByte",
+  "description": "Independent music label website and player showcasing original songs, albums, and videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
